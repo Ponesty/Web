@@ -36,3 +36,19 @@ input {
 img {
 	max-width: 300px;
 }
+
+button {
+	background-color: yellow;
+}
+
+.colorSize {
+	padding: 30px 42px;
+}
+
+.placeSize {
+	padding: 20px 32px;
+}
+
+.ritualSize {
+	padding: 10px 22px;
+}
